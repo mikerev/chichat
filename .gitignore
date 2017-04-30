@@ -1,0 +1,4 @@
+include
+lib
+bin
+pip-selfcheck.json
